@@ -1,0 +1,32 @@
+body{
+    padding: 50px 100px;
+}
+#container{
+    padding: 40px;
+    margin: 50px;
+    border: 4px solid rgb(142, 91, 51);
+    text-align: center;
+    background: url("third.jfif");
+    
+}
+.inp{
+    display: inline-block;
+    color: rgb(239, 183, 1);
+    background: rgba(8, 18, 94, 0.87);  
+    font-weight: bold;
+    font-size: 16px;
+    margin: 20px;
+    width: 16rem;
+}
+.inp input{
+    font-size: 18px;
+    font-weight: bold;
+    height: 25px;
+    text-align: center;
+        
+}
+#eq{
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+}
